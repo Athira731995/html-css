@@ -1,0 +1,31 @@
+h1 {
+    color: crimson;
+    font-family: fantasy;
+
+}
+a {
+    background-color: darkmagenta;
+
+}
+
+a:hover{
+    background-color: red;
+}
+
+
+div {
+
+    background-color: gold;
+    width: 50%;
+    height: 200px;
+}
+.p1{
+    color:red;
+    font-family: cursive;
+
+}
+#para1{
+    font-size: 30px;
+    font-weight: bolder;
+    color: brown;
+}
